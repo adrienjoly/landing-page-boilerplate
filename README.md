@@ -20,7 +20,7 @@ Relies on Mailchimp (for user email subscriptions) and Google Analytics (for sta
   - update the baseline of your page/product into the first `<p>` element;
   - update the content of all the `<meta>` elements;
   - update the `action` attribute of the `<form>` element, so that it leads to your own [Mailchimp](http://mailchimp.com) list;
-  - update the `UA-1858235-14` code with your own Google Analytics code;
+  - update the `UA-1858235-4` code with your own Google Analytics code;
   - replace `favicon.ico` with your own; ([ICO Converter](http://www.icoconverter.com/) can help)
 - Replace the [default background image](https://www.pexels.com/photo/dawn-landscape-mountains-nature-1852/) with your own in `/res/background.jpg`;
 - If you want to use Github Pages as hosting platform and that your custom domain name links to it, set your custom domain name in the `CNAME` file; (read more [here](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/))
