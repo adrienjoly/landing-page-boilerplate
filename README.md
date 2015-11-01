@@ -14,7 +14,7 @@ Relies on Mailchimp (for user email subscriptions) and Google Analytics (for sta
 
 - Fork this project to your own Github account;
 - Change the name, description and link, on the page of your freshly forked project on Github;
-- Make sure it's published, by opening <your_github_username>.github.io/<your_fork_name>;
+- Make sure it's published, by opening `<your_github_username>.github.io/<your_fork_name>`;
 - Update the following lines in index.html:
   - enter the title of your page/product into the `<title>` and `<h1>` elements;
   - update the baseline of your page/product into the first `<p>` element;
