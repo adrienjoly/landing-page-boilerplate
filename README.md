@@ -7,7 +7,7 @@ Relies on Mailchimp (for user email subscriptions) and Google Analytics (for sta
 
 - Static HTML page => no fancy hosting needed (Github Pages does it for free)
 - Light source code => fast to load
-- Reponsive design
+- Responsive design
 - User emails are submitted to the Mailchimp list of your choice, so you can contact them when needed.
 
 # How to use
